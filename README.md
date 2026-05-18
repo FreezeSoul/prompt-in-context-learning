@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-17]**
+### **[2026-05-18]**
 
-[**World Action Models: The Next Frontier in Embodied AI**](https://huggingface.co/papers/2605.12090) （**New**）
+[**Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion**](https://huggingface.co/papers/2605.12825) （**New**）
 
 *Published: 2026-05-12*
 
-<font color="gray">Siyin Wang, Junhao Shi, Zhaoyang Fu, Xinzhe He, Feihong Liu, Chenchen Yang, Yikang Zhou, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang - [arXiv]</font>
+<font color="gray">Chien Van Nguyen, Chaitra Hegde, Van Cuong Pham, Ryan A. Rossi, Franck Dernoncourt, Thien Huu Nguyen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-270-blue)](https://github.com/OpenMOSS/Awesome-WAM)
+[![](https://img.shields.io/badge/GitHub%20Stars-260-blue)](https://github.com/chiennv2000/orthrus)
 
 ---
 
 
-[**Flow-OPD: On-Policy Distillation for Flow Matching Models**](https://huggingface.co/papers/2605.08063) （**New**）
+[**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://huggingface.co/papers/2604.18486) （**New**）
 
 *Published: 2026-05-08*
 
-<font color="gray">Zhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen, Kaituo Feng, Yunlong Lin, Lin Chen, Zehui Chen, Shaosheng Cao, Feng Zhao - [arXiv]</font>
+<font color="gray">Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Yingyan Li, Han Wang, Shaoqing Xu, Yuechen Luo, Fang Li, Chenxu Dang, Junli Wang, Tao Xu, Jing Wu, Jianhua Wu, Xiaoshuai Hao - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-135-blue)](https://github.com/CostaliyA/Flow-OPD) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-302-blue)](https://github.com/xiaomi-research/onevl)
 
 ---
 
 
-[**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**](https://huggingface.co/papers/2605.06376) （**New**）
+[**X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction**](https://huggingface.co/papers/2605.05765) （**New**）
 
 *Published: 2026-05-07*
 
-<font color="gray">Tao Liu, Hao Yan, Mengting Chen, Taihang Hu, Zhengrong Yue, Zihao Pan, Jinsong Lan, Xiaoyong Zhu, Ming-Ming Cheng, Bo Zheng, Yaxing Wang - [arXiv]</font>
+<font color="gray">Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Qi Qi, Quanlong Zheng, Qi Wu, Zhenyi Liao, Binqiang Pan, Haobo Ji, Haonan Lu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-125-blue)](https://github.com/byliutao/cdm)
-
----
-
-
-[**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**](https://huggingface.co/papers/2605.13841) （**New**）
-
-*Published: 2026-05-13*
-
-<font color="gray">Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz, Oluwanifemi Bamgbose, Fanny Riols, Hoang H. Nguyen, Raghav Mehndiratta, Lindsay Devon Brin, Joseph Marinier, Hari Subramani, Anil Mada - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-116-blue)](https://github.com/ServiceNow/eva)
+[![](https://img.shields.io/badge/GitHub%20Stars-122-blue)](https://github.com/OPPO-Mente-Lab/X-OmniClaw)
 
 ---
 
 
-[**UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning**](https://huggingface.co/papers/2605.11400) （**New**）
+[**HumanNet: Scaling Human-centric Video Learning to One Million Hours**](https://huggingface.co/papers/2605.06747) （**New**）
 
-*Published: 2026-05-12*
+*Published: 2026-05-07*
 
-<font color="gray">Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang - [arXiv]</font>
+<font color="gray">Yufan Deng, Daquan Zhou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-114-blue)](https://github.com/AIFrontierLab/TorchUMM)
+[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/DAGroup-PKU/HumanNet) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
+[**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**](https://huggingface.co/papers/2605.08083) （**New**）
+
+*Published: 2026-05-08*
+
+<font color="gray">Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng Zhang, Rui Liu, Runpeng Dai, Ruibo Chen, Chenxi Liu, Tianyi Xiong, Xidong Wu, Hongming Zhang, Heng Huang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/zhengkid/AutoTTS)
 
 ---
 
