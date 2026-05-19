@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-18]**
+### **[2026-05-19]**
 
-[**Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion**](https://huggingface.co/papers/2605.12825) （**New**）
+[**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**](https://huggingface.co/papers/2604.14268) （**New**）
 
-*Published: 2026-05-12*
+*Published: 2026-04-15*
 
-<font color="gray">Chien Van Nguyen, Chaitra Hegde, Van Cuong Pham, Ryan A. Rossi, Franck Dernoncourt, Thien Huu Nguyen - [arXiv]</font>
+<font color="gray">Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-260-blue)](https://github.com/chiennv2000/orthrus)
-
----
-
-
-[**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://huggingface.co/papers/2604.18486) （**New**）
-
-*Published: 2026-05-08*
-
-<font color="gray">Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Yingyan Li, Han Wang, Shaoqing Xu, Yuechen Luo, Fang Li, Chenxu Dang, Junli Wang, Tao Xu, Jing Wu, Jianhua Wu, Xiaoshuai Hao - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-302-blue)](https://github.com/xiaomi-research/onevl)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,993-blue)](https://github.com/Tencent-Hunyuan/HY-World-2.0) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
 
-[**X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction**](https://huggingface.co/papers/2605.05765) （**New**）
+[**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**](https://huggingface.co/papers/2605.15182) （**New**）
 
-*Published: 2026-05-07*
+*Published: 2026-05-14*
 
-<font color="gray">Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Qi Qi, Quanlong Zheng, Qi Wu, Zhenyi Liao, Binqiang Pan, Haobo Ji, Haonan Lu - [arXiv]</font>
+<font color="gray">Yifan Wang, Tong He - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-122-blue)](https://github.com/OPPO-Mente-Lab/X-OmniClaw)
-
----
-
-
-[**HumanNet: Scaling Human-centric Video Learning to One Million Hours**](https://huggingface.co/papers/2605.06747) （**New**）
-
-*Published: 2026-05-07*
-
-<font color="gray">Yufan Deng, Daquan Zhou - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/DAGroup-PKU/HumanNet) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/yyfz/Warp-as-History)
 
 ---
 
 
-[**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**](https://huggingface.co/papers/2605.08083) （**New**）
+[**MMSkills: Towards Multimodal Skills for General Visual Agents**](https://huggingface.co/papers/2605.13527) （**New**）
 
-*Published: 2026-05-08*
+*Published: 2026-05-14*
 
-<font color="gray">Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng Zhang, Rui Liu, Runpeng Dai, Ruibo Chen, Chenxi Liu, Tianyi Xiong, Xidong Wu, Hongming Zhang, Heng Huang - [arXiv]</font>
+<font color="gray">Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, Shijian Wang, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/zhengkid/AutoTTS)
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/DeepExperience/MMSkills)
+
+---
+
+
+[**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**](https://huggingface.co/papers/2605.09998) （**New**）
+
+*Published: 2026-05-11*
+
+<font color="gray">Seth Karten, Joel Zhang, Tersoo Upaa Jr, Ruirong Feng, Wenzhe Li, Chengshuai Shi, Chi Jin, Kiran Vodrahalli - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/sethkarten/continual-harness)
+
+---
+
+
+[**PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents**](https://huggingface.co/papers/2605.10341) （**New**）
+
+*Published: 2026-05-11*
+
+<font color="gray">Bihui Yu, Xinglong Xu, Junjie Jiang, Jiabei Cheng, Caijun Jia, Siyuan Li, Conghui He, Jingxuan Wei, Cheng Tan - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/OpenRaiser/PaperFit)
 
 ---
 
