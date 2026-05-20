@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-19]**
+### **[2026-05-20]**
 
-[**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**](https://huggingface.co/papers/2604.14268) （**New**）
+[**LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation**](https://huggingface.co/papers/2605.18739) （**New**）
 
-*Published: 2026-04-15*
+*Published: 2026-05-18*
 
-<font color="gray">Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen - [arXiv]</font>
+<font color="gray">Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,993-blue)](https://github.com/Tencent-Hunyuan/HY-World-2.0) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**](https://huggingface.co/papers/2605.15182) （**New**）
-
-*Published: 2026-05-14*
-
-<font color="gray">Yifan Wang, Tong He - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/yyfz/Warp-as-History)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,293-blue)](https://github.com/NVlabs/LongLive)
 
 ---
 
 
-[**MMSkills: Towards Multimodal Skills for General Visual Agents**](https://huggingface.co/papers/2605.13527) （**New**）
+[**Lance: Unified Multimodal Modeling by Multi-Task Synergy**](https://huggingface.co/papers/2605.18678) （**New**）
 
-*Published: 2026-05-14*
+*Published: 2026-05-18*
 
-<font color="gray">Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, Shijian Wang, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu - [arXiv]</font>
+<font color="gray">Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/DeepExperience/MMSkills)
-
----
-
-
-[**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**](https://huggingface.co/papers/2605.09998) （**New**）
-
-*Published: 2026-05-11*
-
-<font color="gray">Seth Karten, Joel Zhang, Tersoo Upaa Jr, Ruirong Feng, Wenzhe Li, Chengshuai Shi, Chi Jin, Kiran Vodrahalli - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/sethkarten/continual-harness)
+[![](https://img.shields.io/badge/GitHub%20Stars-308-blue)](https://github.com/bytedance/Lance)
 
 ---
 
 
-[**PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents**](https://huggingface.co/papers/2605.10341) （**New**）
+[**SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution**](https://huggingface.co/papers/2605.18401) （**New**）
 
-*Published: 2026-05-11*
+*Published: 2026-05-18*
 
-<font color="gray">Bihui Yu, Xinglong Xu, Junjie Jiang, Jiabei Cheng, Caijun Jia, Siyuan Li, Conghui He, Jingxuan Wei, Cheng Tan - [arXiv]</font>
+<font color="gray">Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/OpenRaiser/PaperFit)
+[![](https://img.shields.io/badge/GitHub%20Stars-219-blue)](https://github.com/MemTensor/skills-vote)
+
+---
+
+
+[**$δ$-mem: Efficient Online Memory for Large Language Models**](https://huggingface.co/papers/2605.12357) （**New**）
+
+*Published: 2026-05-12*
+
+<font color="gray">Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, Xiaoteng Ma, Baian Chen, Soujanya Poria - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/declare-lab/delta-Mem)
+
+---
+
+
+[**What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion**](https://huggingface.co/papers/2605.07915) （**New**）
+
+*Published: 2026-05-08*
+
+<font color="gray">Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-100-blue)](https://github.com/ZhengrongYue/PAE)
 
 ---
 
